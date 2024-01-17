@@ -1,5 +1,20 @@
 # Welcome to the Integrating With HubSpot I: Foundations Practicum
 
+---
+Information
+---
+
+Link to the custom object: https://app.hubspot.com/contacts/44959117/objects/2-22666749/views/all/list
+
+Custom properties
+
+| Property ID  | Property Type | Property Group     |
+|--------------|---------------|--------------------|
+| destination  | string        | Flight Information |
+| origin       | string        | Flight Information            |
+| passengers   | integer       | Flight Information            |
+| flight_name  | string        | Flight Information            |
+
 This repository is for the Integrating With HubSpot I: Foundations course. This practicum is one of two requirements for receiving your Integrating With HubSpot I: Foundations certification. You must also take the exam and receive a passing grade (at least 75%).
 
 To read the full directions, please go to the [practicum instructions](https://app.hubspot.com/academy/l/tracks/1092124/1093824/5493?language=en).
